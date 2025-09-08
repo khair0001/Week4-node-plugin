@@ -8,3 +8,5 @@
    <img width="346" height="142" alt="image" src="https://github.com/user-attachments/assets/6711b8d7-7f27-48cf-830d-760957e5cb87" />
 7. implementasikan npm tersebut
    <img width="696" height="941" alt="image" src="https://github.com/user-attachments/assets/10234171-675d-4985-9565-64b2c8ce4e33" />
+8. Hasil
+   <img width="922" height="755" alt="Screenshot 2025-09-08 155719" src="https://github.com/user-attachments/assets/aa909766-dedb-4207-b75f-4a29486c5e9f" />
