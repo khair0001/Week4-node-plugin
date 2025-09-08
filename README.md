@@ -1,5 +1,5 @@
 1. membuat folder
-2. membuat file (node.js)
+2. membuat file (index.js)
 4. npm init
    <img width="766" height="825" alt="Screenshot 2025-09-08 150138" src="https://github.com/user-attachments/assets/bd6e344a-3060-4981-bc4f-5725f0576dac" />
 5. install npm chalk cowsay figlet
